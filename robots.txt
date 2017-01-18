@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /assets/components/
+Disallow: /connectors/
+Disallow: /core/	
+Disallow: /manager/
+Disallow: /mysql/
+Disallow: /config.core.php
+Disallow: /*?mobile=
+Disallow: /*?-&
+
+Host: www.auto112.ru
+Sitemap: http://www.auto112.ru/sitemap.xml
